@@ -1,5 +1,7 @@
 # ocean
-Game assets themed around marine animals and marine environments.
+These things are all game assets themed around marine animals and marine environments.
+
+=======================================================================
 
 Attribution 4.0 International
 
