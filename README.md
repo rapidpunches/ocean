@@ -9,6 +9,8 @@ Thank you for supporting my work!
 
 If you need anything else, or if you just have marine life requests, feel free to contact me!
 
+I'm still learning so bear with me. I don't know a lot of things (I only know about fish)!
+
 https://mastodon.art/@RAPIDPUNCHES
 
 -------
