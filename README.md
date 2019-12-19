@@ -1,11 +1,10 @@
 # ocean
-These things are all game assets themed around marine animals and marine environments.
 
 Hello! My work is free to use!
 I appreciate being credited. It will help spread the use of marine life sprites when you do.
 As I continue to make more assets, people will want to check back with me to get more :)
 
-Thank you for supporting my work!
+Thank you for supporting my work! I hope you enjoy!
 
 If you need anything else, or if you just have marine life requests, feel free to contact me!
 
